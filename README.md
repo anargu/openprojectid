@@ -1,6 +1,6 @@
 # Open Project ID Protocol
 
-Open Project ID Protocol is a simple protocol to identify our porjects with useful IDs where it saves determinated description of the project.
+Open Project ID Protocol is a simple protocol to identify our projects with useful IDs where it saves determinated description of the project.
 
 ## Motivation
 
